@@ -10,7 +10,7 @@ Quando usar *Cells*
 
 *Cells* são ideais para construir componentes de páginas reutilizáveis que requerem
 interação com modelos, lógica de visualização, e lógica de renderizaço. Um exemplo simples
-seria o carinho em uma loja online, ou um menu de navegação *data-driven* em um CMS.
+seria o carrinho em uma loja online, ou um menu de navegação *data-driven* em um CMS.
 
 Para criar uma *cell*, defina uma classe em **src/View/Cell** e um *template*
 em **src/Template/Cell/**. Nesse exemplo, nós estaremos fazendo uma *cell* para exibir
